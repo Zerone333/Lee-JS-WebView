@@ -2,8 +2,8 @@
 //  ViewController.h
 //  js
 //
-//  Created by 李艺真 on 16/1/14.
-//  Copyright © 2016年 李艺真. All rights reserved.
+//  Created by Lee on 16/1/14.
+//  Copyright © 2016年 Lee. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
